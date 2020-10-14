@@ -4,3 +4,4 @@
 3. All the pages are linked to each other.
 4. For better understanding of code open this with "Sublime text" (a notepad like tool)
 5. If you wish to understand a piece of code then lemme know.
+6. anishasuri.netlify.app is your website name
